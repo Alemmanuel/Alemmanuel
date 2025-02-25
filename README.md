@@ -11,8 +11,8 @@
 
 🔹 Experienced in RESTful API design and full-stack integrations.  
 🔹 Passionate about automation, performance optimization, and security.  
-🔹 Always seeking innovative solutions to complex problems.  
+🔹 Proficient in **Git** and **Docker** for version control and containerization.  
 
-🎉 Fun fact: I once built an entire project just to automate a small daily task!
+🎉 Fun fact: I once built an entire project just to automate a small daily task!  
 📩 **Contact me:** [alemmanuel0412@gmail.com](alemmanuel0412@gmail.com)  
 
