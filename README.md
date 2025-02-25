@@ -6,7 +6,7 @@
 🎯 **Specialized in:**  
    - 🖥️ **Backend:** Node.js, Express.js, API development, server-side logic.  
    - 🎨 **Frontend:** React, JavaScript, HTML, CSS, responsive design.  
-   - 🤖 **AI:** Machine Learning, Neural Networks, **LLM** (Large Language Models), **PLN** (Procesamiento del Lenguaje Natural).  
+   - 🤖 **AI:** Machine Learning, Neural Networks, **LLM** (Large Language Models), **NLP** (Natural Language Processing).  
    - 📊 **Databases:** MySQL, PostgreSQL, MongoDB, data modeling.  
 
 🔹 Experienced in RESTful API design and full-stack integrations.  
