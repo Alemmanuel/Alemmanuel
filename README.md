@@ -1,4 +1,4 @@
-# 👨‍🎓 Full-Stack Student | Backend & AI 🚀  
+# 👨‍🎓 Full-Stack | Backend & AI 🚀  
 
 🔹 Passionate about designing scalable and efficient web applications.  
 🔹 Strong problem-solving skills with a focus on clean, maintainable code.  
