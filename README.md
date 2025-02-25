@@ -14,5 +14,5 @@
 🔹 Always seeking innovative solutions to complex problems.  
 
 🎉 Fun fact: I once built an entire project just to automate a small daily task!
-📩 **Contact me:** [your.email@example.com](mailto:your.email@example.com)  
+📩 **Contact me:** [alemmanuel0412@gmail.com](alemmanuel0412@gmail.com)  
 
