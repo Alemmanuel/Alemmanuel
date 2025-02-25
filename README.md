@@ -4,10 +4,10 @@
 🔹 Strong problem-solving skills with a focus on clean, maintainable code.  
 
 🎯 **Specialized in:**  
-   - 🖥️ **Backend:** Node.js, Express.js, API development.  
-   - 🎨 **Frontend:** React, JavaScript, HTML, CSS, TailwindCSS.  
-   - 🤖 **AI:** Machine Learning, Neural Networks, data-driven solutions.  
-   - 📊 **Databases:** MySQL, PostgreSQL, MongoDB.  
+   - 🖥️ **Backend:** Node.js, Express.js, API development, server-side logic.  
+   - 🎨 **Frontend:** React, JavaScript, HTML, CSS, responsive design.  
+   - 🤖 **AI:** Machine Learning, Neural Networks, **LLM** (Large Language Models), **PLN** (Procesamiento del Lenguaje Natural).  
+   - 📊 **Databases:** MySQL, PostgreSQL, MongoDB, data modeling.  
 
 🔹 Experienced in RESTful API design and full-stack integrations.  
 🔹 Passionate about automation, performance optimization, and security.  
