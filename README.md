@@ -11,7 +11,8 @@
 
 🔹 Experienced in RESTful API design and full-stack integrations.  
 🔹 Passionate about automation, performance optimization, and security.  
-🔹 Proficient in **Git** and **Docker** for version control and containerization.  
+🔹 Proficient in **Git** and **Docker** for version control and containerization.
+🔹 Many projects of automatization witn **n8n** and **AI Agents**.
 
 🎉 Fun fact: I once built an entire project just to automate a small daily task!  
 📩 **Contact me:** [alemmanuel0412@gmail.com](alemmanuel0412@gmail.com)  
